@@ -1,16 +1,16 @@
 @font-face {
   font-family: "Roboto_Condensed";
-  src: url('./assets/font/RobotoCondensed-Regular.ttf');
+  src: url('../font/RobotoCondensed-Regular.ttf');
 }
 @font-face {
   font-family: "Roboto_Condensed";
   font-style: italic;
-  src: url('./assets/font/RobotoCondensed-Italic.ttf');
+  src: url('../font/RobotoCondensed-Italic.ttf');
 }
 @font-face {
   font-family: "Roboto_Condensed";
   font-weight: bold;
-  src: url('./assets/font/RobotoCondensed-Bold.ttf');
+  src: url('../font/RobotoCondensed-Bold.ttf');
 }
 
 *, ::before, ::after {
